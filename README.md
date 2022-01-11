@@ -1,1 +1,1 @@
-# image_store
+# pic_bed
